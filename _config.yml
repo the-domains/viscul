@@ -1,0 +1,28 @@
+name: Viscul
+favicon: null
+layout_spectrum: 0.9839596119709313
+typography_spectrum: 0.7640358076896518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26346891187131405
+  lightness: 0.38567098625935614
+  saturation: 0.3463287493214011
+  rhythmicContrast: 0.5725102906581014
+purpose: []
