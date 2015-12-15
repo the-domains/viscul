@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Viscul]]></title>
         <description><![CDATA[Viscul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/viscul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 02:44:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 02:45:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/viscul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Maine</p>]]></description>
+            <link>https://thegrid.ai/viscul/4ab22549-fad9-410d-b840-4ddccaae9ddb/index.html</link>
+            <guid isPermaLink="false">4ab22549-fad9-410d-b840-4ddccaae9ddb</guid>
+            <pubDate>Tue, 15 Dec 2015 02:45:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/viscul/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">94d25f3e-868d-440f-be98-da23f3e0c159</guid>
             <pubDate>Tue, 15 Dec 2015 02:44:48 GMT</pubDate>
         </item>
